@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>username empty
+password empty
+
+https://katalon-demo-cura.herokuapp.com/</description>
+   <name>TC001_LoginFieldBlank</name>
+   <tag>login</tag>
+   <comment></comment>
+   <testCaseGuid>9dd800f0-229d-453e-8ba6-e568662b5685</testCaseGuid>
+</TestCaseEntity>
